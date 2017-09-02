@@ -1,3 +1,4 @@
+@echo off
 title "IG's Temp Cleaner"
 cd \
 cd Windows/temp
